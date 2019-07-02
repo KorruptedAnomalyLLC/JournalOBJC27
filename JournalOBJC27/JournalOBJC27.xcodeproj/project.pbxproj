@@ -340,7 +340,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5Z9AZ3J86W;
-				INFOPLIST_FILE = JournalOBJC27/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/JournalOBJC27/RESOURCES/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -361,7 +361,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5Z9AZ3J86W;
-				INFOPLIST_FILE = JournalOBJC27/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/JournalOBJC27/RESOURCES/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
